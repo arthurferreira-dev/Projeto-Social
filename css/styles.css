@@ -62,8 +62,9 @@ iframe#home {
     top: 80px;
     left: 22px;
 
-    width: 269px;
+    width: 267.5px;
     height: 471px;
+    border: 0.4px solid #00000063;
 }
 
 p.error-iframe {
